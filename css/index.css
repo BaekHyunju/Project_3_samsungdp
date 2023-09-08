@@ -224,11 +224,12 @@ section {
     display: inline-block;
 }
 .down_tab {
-    width: 10px;
-    height: 15px;
-    background: url(../img/triangle_icon.svg)no-repeat center;
-    background-size: contain;
+    width: 8px;
+    height: 22px;
     display: inline-block;
+    /* background: url(../img/triangle_icon.svg)no-repeat center;
+    background-size: contain;
+    display: inline-block; */
 }
 
 
@@ -840,7 +841,7 @@ section {
     justify-content: space-between;
     align-items: center;
     padding: 50px 0;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #cccccc;
 }
 .footer_logo {
     width: 200px;
@@ -848,4 +849,39 @@ section {
 .sns_icon div {
     display: inline-block;
     margin-left: 10px;
+    cursor: pointer;
+}
+
+.footer_bottom {
+    color: #fff;
+    font-size: 15px;
+    padding: 50px 0;
+} 
+.fotter_menu {
+    padding-bottom: 20px;
+    line-height: 1.3;
+}
+.fotter_menu p{
+    display: inline-block;
+    cursor: pointer;
+}
+.fotter_menu p::after{
+    content: '|';
+    padding: 0 7px;
+}
+.fotter_menu p:last-child::after{
+    display: none;
+}
+.footer_cont {
+    font-size: 13px;
+    line-height: 1.2;
+}
+
+@media screen and (max-width:768px){
+    .footer_top{
+        padding: 30px 0;
+    }
+    .footer_bottom {
+        padding: 30px 0;
+    }
 }
