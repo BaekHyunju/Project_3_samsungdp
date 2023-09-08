@@ -1,17 +1,345 @@
-<svg width="109" height="150" viewBox="0 0 109 150" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_102_599)">
-<mask id="mask0_102_599" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-42" y="-21" width="193" height="192">
-<path d="M150.192 -20.8589H-41.5261V170.859H150.192V-20.8589Z" fill="white"/>
-</mask>
-<g mask="url(#mask0_102_599)">
-<path d="M64.5704 3.37427H3.18237V146.434H105.521V44.2868L64.5704 3.37427Z" stroke="#212121" stroke-width="7.2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M64.5703 3.37427V44.2868H105.483" stroke="#05509E" stroke-width="7.2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M64.5703 3.37427C64.5703 3.37427 65.8356 4.25617 84.8924 23.5813C104.179 43.1749 105.483 44.2868 105.483 44.2868" stroke="#212121" stroke-width="7.2" stroke-linecap="round" stroke-linejoin="round"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 206.9 206.9" style="enable-background:new 0 0 206.9 206.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{display:none;fill:none;stroke:#034EA1;stroke-width:4.8;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:none;stroke:#034EA1;stroke-width:4.8;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{clip-path:url(#SVGID_2_);fill:none;stroke:#212121;stroke-width:4.8;stroke-linecap:round;stroke-linejoin:round;}
+	
+		.st4{clip-path:url(#SVGID_2_);fill:none;stroke:#034EA1;stroke-width:4.879;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:27.88;}
+	.st5{clip-path:url(#SVGID_2_);fill:none;stroke:#222222;stroke-width:4.8;stroke-linecap:round;stroke-linejoin:round;}
+	.st6{clip-path:url(#SVGID_4_);}
+	.st7{opacity:0;clip-path:url(#SVGID_6_);}
+	.st8{filter:url(#e);}
+	.st9{opacity:0;fill:#FFFFFF;}
+	.st10{mask:url(#i_2_);}
+	.st11{clip-path:url(#SVGID_8_);}
+	.st12{filter:url(#c);}
+	.st13{mask:url(#k_2_);}
+	.st14{fill:none;stroke:#212121;stroke-width:4.8;stroke-linecap:round;stroke-linejoin:round;}
+	.st15{clip-path:url(#SVGID_10_);}
+	.st16{display:none;fill:none;}
+	.st17{fill:none;}
+	.st18{opacity:0;fill:none;}
+	.st19{clip-path:url(#SVGID_12_);}
+	.st20{clip-path:url(#SVGID_14_);}
+	.st21{filter:url(#a);}
+	.st22{mask:url(#o_2_);}
+	.st23{clip-path:url(#SVGID_16_);}
+	.st24{clip-path:url(#SVGID_18_);}
+	.st25{opacity:0;clip-path:url(#SVGID_20_);}
+	.st26{filter:url(#Adobe_OpacityMaskFilter_3_);}
+	.st27{fill:#FFFFFF;fill-opacity:0;}
+	.st28{mask:url(#i_1_);}
+	.st29{fill:none;stroke:#034EA1;stroke-width:4.879;stroke-linecap:round;stroke-linejoin:round;}
+	.st30{filter:url(#Adobe_OpacityMaskFilter_4_);}
+	.st31{mask:url(#j_2_);}
+	.st32{fill:none;stroke:#212121;stroke-width:4.879;stroke-linecap:round;stroke-linejoin:round;}
+	.st33{fill:none;stroke:#121331;stroke-width:4.879;stroke-linecap:round;stroke-linejoin:round;}
+	.st34{opacity:0;clip-path:url(#SVGID_22_);}
+	.st35{filter:url(#Adobe_OpacityMaskFilter_5_);}
+	.st36{mask:url(#l_2_);}
+	.st37{fill:none;stroke:#034EA1;stroke-width:4.879;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:27.88;}
+	.st38{clip-path:url(#SVGID_24_);}
+	.st39{fill:none;stroke:#212121;stroke-width:4.879;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:27.88;}
+	.st40{display:none;fill:none;stroke:#034EA1;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;}
+	.st41{fill:none;stroke:#034EA1;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<filter  filterUnits="objectBoundingBox" height="100%" id="e" width="100%" x="0%" y="0%">
+	<feComponentTransfer  in="SourceGraphic">
+		<feFuncA  tableValues="1.0 0.0" type="table"></feFuncA>
+	</feComponentTransfer>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="100%" id="c" width="100%" x="0%" y="0%">
+	<feComponentTransfer  in="SourceGraphic">
+		<feFuncA  tableValues="1.0 0.0" type="table"></feFuncA>
+	</feComponentTransfer>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="100%" id="a" width="100%" x="0%" y="0%">
+	<feComponentTransfer  in="SourceGraphic">
+		<feFuncA  tableValues="1.0 0.0" type="table"></feFuncA>
+	</feComponentTransfer>
+</filter>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="913.7" y="-29.1" width="472.1" height="472.1"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<path class="st1" d="M913.7,443"/>
+		<path class="st2" d="M913.7,443"/>
+	</g>
+	<g class="st0">
+		<path class="st1" d="M913.7,443"/>
+		<path class="st2" d="M913.7,443"/>
+	</g>
+	<g class="st0">
+		<path class="st1" d="M913.7,443"/>
+		<path class="st2" d="M913.7,443"/>
+	</g>
+	<g class="st0">
+		<path class="st1" d="M913.7,443"/>
+		<path class="st2" d="M913.7,443"/>
+	</g>
+	<path class="st3" d="M1236.7,196.6h-173.8c-6.2,0-11.3-5.1-11.3-11.3V67.1c0-6.2,5.1-11.3,11.3-11.3h173.8
+		c6.2,0,11.3,5.1,11.3,11.3v118.2C1248,191.5,1242.9,196.6,1236.7,196.6z"/>
+	<polygon class="st4" points="1229,165.5 1070.5,165.5 1070.5,74.3 1229,74.3 1229,165.5 	"/>
+	<path class="st5" d="M1138.5,196.6h22.6c0,0,6.4,19,14.3,22.9h-51.2C1132,215.7,1138.5,196.6,1138.5,196.6L1138.5,196.6z"/>
+	<path class="st3" d="M913.7,443"/>
 </g>
+<g>
+	<defs>
+		<rect id="SVGID_3_" x="-24.4" y="-25" width="257.7" height="257.7"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st6">
+		<g>
+			<defs>
+				<rect id="SVGID_5_" x="-24.4" y="-25" width="257.7" height="257.7"/>
+			</defs>
+			<clipPath id="SVGID_6_">
+				<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st7">
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="34.9" y="8.5" width="139.2" height="190.7">
+						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="34.9" y="8.5" width="139.2" height="190.7" id="i_2_">
+					<g class="st8">
+						<g>
+							<rect x="-24.4" y="-25" class="st9" width="257.7" height="257.7"/>
+						</g>
+					</g>
+				</mask>
+				<g class="st10">
+					<g>
+						<defs>
+							<rect id="SVGID_7_" x="34.9" y="8.5" width="139.2" height="190.7"/>
+						</defs>
+						<clipPath id="SVGID_8_">
+							<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+						</clipPath>
+						<g transform="translate(115 65)" class="st11">
+							<path class="st2" d="M-51.8,52.6h82.5"/>
+							<path class="st2" d="M-51.8,80.1h82.5"/>
+							<path class="st2" d="M-51.8,107.6h82.5"/>
+						</g>
+					</g>
+				</g>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="33.3" y="5.2" width="142.4" height="197.1">
+						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="33.3" y="5.2" width="142.4" height="197.1" id="k_2_">
+					<g class="st12">
+						<g>
+							<rect x="-24.4" y="-25" class="st9" width="257.7" height="257.7"/>
+						</g>
+					</g>
+				</mask>
+				<g class="st13">
+					<path class="st14" d="M118.2,7.6v55h55 M173.2,62.6l-55-55"/>
+					<path class="st14" d="M118.2,7.6H35.7v192.3h137.6V62.6"/>
+				</g>
+				<g>
+					<defs>
+						<rect id="SVGID_9_" x="-24.4" y="-25" width="139.2" height="190.7"/>
+					</defs>
+					<clipPath id="SVGID_10_">
+						<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+					</clipPath>
+					<g class="st15">
+						<path class="st16" d="M-24.4,165.7"/>
+						<path class="st17" d="M-24.4,165.7"/>
+						<path class="st17" d="M-24.4,165.7"/>
+					</g>
+				</g>
+				<path class="st18" d="M-24.4,232.7"/>
+				<path class="st18" d="M-24.4,232.7"/>
+				<path class="st18" d="M-24.4,232.7"/>
+				<g>
+					<path class="st16" d="M-24.4,232.7"/>
+					<path class="st17" d="M-24.4,232.7"/>
+				</g>
+				<g>
+					<path class="st16" d="M-24.4,232.7"/>
+					<path class="st17" d="M-24.4,232.7"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<defs>
+				<rect id="SVGID_11_" x="-24.4" y="-25" width="257.7" height="257.7"/>
+			</defs>
+			<clipPath id="SVGID_12_">
+				<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st19">
+				<g>
+					<defs>
+						<rect id="SVGID_13_" x="-24.4" y="-25" width="139.2" height="190.7"/>
+					</defs>
+					<clipPath id="SVGID_14_">
+						<use xlink:href="#SVGID_13_"  style="overflow:visible;"/>
+					</clipPath>
+					<g class="st20">
+						<path class="st16" d="M-24.4,165.7"/>
+						<path class="st17" d="M-24.4,165.7"/>
+						<path class="st17" d="M-24.4,165.7"/>
+					</g>
+				</g>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="34.9" y="8.5" width="139.2" height="190.7">
+						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="34.9" y="8.5" width="139.2" height="190.7" id="o_2_">
+					<g class="st21">
+						<g>
+							<rect x="-24.4" y="-25" class="st9" width="257.7" height="257.7"/>
+						</g>
+					</g>
+				</mask>
+				<g class="st22">
+					<g>
+						<defs>
+							<rect id="SVGID_15_" x="34.9" y="8.5" width="139.2" height="190.7"/>
+						</defs>
+						<clipPath id="SVGID_16_">
+							<use xlink:href="#SVGID_15_"  style="overflow:visible;"/>
+						</clipPath>
+						<g transform="translate(115 65)" class="st23">
+							<path class="st2" d="M-51.8,52.6h82.5"/>
+							<path class="st2" d="M-51.8,80.1h82.5"/>
+							<path class="st2" d="M-51.8,107.6h82.5"/>
+						</g>
+					</g>
+				</g>
+				<g>
+					<path class="st14" d="M118.2,7.6H35.7v192.3h137.6V62.6L118.2,7.6z"/>
+					<path class="st2" d="M118.2,7.6v55h55"/>
+				</g>
+				<path class="st14" d="M118.2,7.6c0,0,1.7,1.2,27.3,27.2c25.9,26.3,27.7,27.8,27.7,27.8"/>
+			</g>
+		</g>
+		<path class="st14" d="M-24.4,232.7"/>
+	</g>
 </g>
-<defs>
-<clipPath id="clip0_102_599">
-<rect width="108.704" height="150" fill="white"/>
-</clipPath>
-</defs>
+<g>
+	<defs>
+		<rect id="SVGID_17_" x="666.1" y="-555.5" width="320.8" height="320.8"/>
+	</defs>
+	<clipPath id="SVGID_18_">
+		<use xlink:href="#SVGID_17_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st24">
+		<defs>
+			<rect id="SVGID_19_" x="666.1" y="-555.5" width="320.8" height="320.8"/>
+		</defs>
+		<clipPath id="SVGID_20_">
+			<use xlink:href="#SVGID_19_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st25">
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_3_" filterUnits="userSpaceOnUse" x="989.5" y="-465.6" width="151.3" height="143.9">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="989.5" y="-465.6" width="151.3" height="143.9" id="i_1_">
+				<g class="st26">
+					<path class="st27" d="M666.1-555.5h320.8v320.8H666.1V-555.5z"/>
+				</g>
+			</mask>
+			<g class="st28">
+				<path class="st29" d="M1062.3-324.2h-70.3l0.2-6.9c0-25.7,20.8-46.5,46.5-46.5h53.2c25.7,0,46.5,20.8,46.5,46.5l-0.2,6.9l0,0
+					L1062.3-324.2 M1072.7-397.1c-2.7,0.7-5.4,1-8.1,1c-18.5,0-33.5-15-33.5-33.5c0-18.5,15-33.5,33.5-33.5
+					c18.5,0,33.5,15,33.5,33.5l0,0C1098.1-413.9,1087.2-400.7,1072.7-397.1"/>
+			</g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_4_" filterUnits="userSpaceOnUse" x="489.1" y="-465.6" width="151.3" height="143.9">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="489.1" y="-465.6" width="151.3" height="143.9" id="j_2_">
+				<g class="st30">
+					<path class="st27" d="M666.1-555.5h320.8v320.8H666.1V-555.5z"/>
+				</g>
+			</mask>
+			<g class="st31">
+				<path class="st29" d="M561.9-324.2h-70.3l0.2-6.9c0-25.7,20.8-46.5,46.5-46.5h53.2c25.7,0,46.5,20.8,46.5,46.5l-0.2,6.9l0,0
+					L561.9-324.2 M572.3-397.1c-2.7,0.7-5.4,1-8.1,1c-18.5,0-33.5-15-33.5-33.5c0-18.5,15-33.5,33.5-33.5c18.5,0,33.5,15,33.5,33.5
+					l0,0C597.7-413.9,586.9-400.7,572.3-397.1"/>
+			</g>
+			<g>
+				<path class="st32" d="M822.5-302.3h-94.8l0.3-9.2c0-34.6,28.1-62.7,62.7-62.7h71.7c34.6,0,62.7,28.1,62.7,62.7l-0.3,9.2l0,0
+					H822.5"/>
+				<path class="st33" d="M837.3-400.4c-3.6,0.9-7.3,1.3-11,1.3c-25.1,0-45.4-20.3-45.4-45.4s20.3-45.4,45.4-45.4
+					s45.4,20.3,45.4,45.4l0,0C871.7-423.2,857.1-405.3,837.3-400.4"/>
+			</g>
+		</g>
+	</g>
+	<g class="st24">
+		<defs>
+			<rect id="SVGID_21_" x="666.1" y="-555.5" width="320.8" height="320.8"/>
+		</defs>
+		<clipPath id="SVGID_22_">
+			<use xlink:href="#SVGID_21_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st34">
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_5_" filterUnits="userSpaceOnUse" x="725.2" y="-376.6" width="202.2" height="76.8">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="725.2" y="-376.6" width="202.2" height="76.8" id="l_2_">
+				<g class="st35">
+					<path class="st27" d="M666.1-555.5h320.8v320.8H666.1V-555.5z"/>
+				</g>
+			</mask>
+			<g class="st36">
+				<path class="st32" d="M822.5-302.3h-94.8l0.3-9.2c0-34.6,28.1-62.7,62.7-62.7h71.7c34.6,0,62.7,28.1,62.7,62.7l-0.3,9.2l0,0
+					H822.5"/>
+			</g>
+			<path class="st37" d="M861.2-473.7c6.9,8.2,10.6,18.5,10.6,29.2l0,0c0,25.1-20.3,45.4-45.4,45.4c-25.1,0-45.4-20.3-45.4-45.4
+				s20.3-45.4,45.4-45.4C840.4-489.9,852.9-483.6,861.2-473.7"/>
+		</g>
+	</g>
+	<g class="st24">
+		<defs>
+			<rect id="SVGID_23_" x="666.1" y="-555.5" width="320.8" height="320.8"/>
+		</defs>
+		<clipPath id="SVGID_24_">
+			<use xlink:href="#SVGID_23_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st38">
+			<path class="st39" d="M822.5-302.3h-94.8l0.3-9.2c0-34.6,28.1-62.7,62.7-62.7h71.7c34.6,0,62.7,28.1,62.7,62.7l-0.3,9.2l0,0
+				H822.5"/>
+			<path class="st37" d="M861.3-457.3c6.9,8.2,10.6,18.5,10.6,29.2l0,0c0,25.1-20.3,45.4-45.4,45.4c-25.1,0-45.4-20.3-45.4-45.4
+				c0-25.1,20.3-45.4,45.4-45.4C840.5-473.5,853-467.2,861.3-457.3"/>
+		</g>
+	</g>
+	<g class="st24">
+		<path class="st40" d="M666.1-234.8"/>
+		<path class="st41" d="M666.1-234.8"/>
+		<path class="st41" d="M666.1-234.8"/>
+		<path class="st41" d="M666.1-234.8"/>
+		<path class="st41" d="M666.1-234.8"/>
+		<path class="st41" d="M666.1-234.8"/>
+		<path class="st41" d="M666.1-234.8"/>
+		<path class="st41" d="M666.1-234.8"/>
+		<path class="st41" d="M666.1-234.8"/>
+		<path class="st41" d="M666.1-234.8"/>
+		<path class="st41" d="M666.1-234.8"/>
+		<path class="st41" d="M666.1-234.8"/>
+	</g>
+</g>
 </svg>
