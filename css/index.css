@@ -886,3 +886,6 @@ section {
     font-size: 13px;
     line-height: 1.3;
 }
+.footer_cont span {
+    color: #fff;
+}
